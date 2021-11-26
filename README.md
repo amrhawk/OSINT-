@@ -1,6 +1,6 @@
 # OSINT
 Social Media Data (twitter &amp; reddit) Scraping Tool
-Based on snscrape - social networking services (SNS). 
+Based on <a href="https://github.com/JustAnotherArchivist/snscrape.git">snscrape</a>- social networking services (SNS). 
 This tool is with GUI, It scrapes user profiles, hashtags, searches and dumps the data in a csv format. Useful for data analysis or visualization purposes. The GUI interface can scrape data for Twitter & Reddit.
 
 
@@ -27,6 +27,9 @@ Pip3 install pandas
 CLI
 Python project.py
 
-OUTPUT
 
+<b><h2>Acknowledgements</h2></b>
+
+This program would not have been possible without the use of snscrape by JustAnotherArchivist.
+https://github.com/JustAnotherArchivist/snscrape
 
